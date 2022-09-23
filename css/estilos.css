@@ -20,3 +20,11 @@ margin: 0 auto;
     padding: 0.5em;
     font-weight: bold;
 }
+#cuerpo
+{
+height: 150px;
+background: fuchsia;
+text-align: center;
+padding: 75px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif 35px;
+}
