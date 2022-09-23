@@ -1,4 +1,4 @@
-Primera linea
+Primera linela
 Segunda Linea
 Tercera Linea
 Cuarta linea
@@ -13,3 +13,6 @@ Esta doceava linea tambien la agregue
 Esta es la decimo tercera linea agregada
 En esta linea voy a agregar mi edad
 Tengo 38 años y naci en Jesus Maria.
+Estas lineas son agregadas con editor de texto vi
+y luego voy a guardar los cambios, claro que si señor.
+
