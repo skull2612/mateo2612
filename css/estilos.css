@@ -12,3 +12,11 @@ text-align: left;
 border: 3px solid #DDD;
 margin: 0 auto;
 }
+#cabecera
+{
+    background: gold;
+    text-align: center;
+    margin: 0;
+    padding: 0.5em;
+    font-weight: bold;
+}
